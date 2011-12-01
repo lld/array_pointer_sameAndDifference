@@ -43,7 +43,6 @@ int main()
     printf("main &*pca :  %p\n", &*pca);//*pca µ»º€”Î ca
     printf("main &ca[0] : %p\n", &ca[0]);
     printf("main &ca[1] : %p\n", &ca[1]);
-    return 0;
 
     return 0;
 }
